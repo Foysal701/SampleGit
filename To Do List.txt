@@ -1,0 +1,8 @@
+1. 
+2. Pycharm installation for preparing generate html report
+3. Intigration test
+4. Download jupyter(Anaconda) & installation
+5. Openign github account
+foysalrana5514@gmail.com
+User name- Foysal701
+rana155514
